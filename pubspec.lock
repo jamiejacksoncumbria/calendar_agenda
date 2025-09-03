@@ -66,7 +66,7 @@ packages:
       sha256: "a7051f72e406647035207c23d1236584f0b18b7c04c6871257077391f3ae2f45"
       url: "https://pub.dev"
     source: hosted
-    version: "0.22.2"
+    version: "0.20.2"
   matcher:
     dependency: transitive
     description:
